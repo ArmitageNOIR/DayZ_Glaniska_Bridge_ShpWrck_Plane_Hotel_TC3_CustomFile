@@ -1,0 +1,70 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Tower_TC4_Base",
+            "pos": [ 5334, 197, 9403.8 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Land_Tower_TC4_Mid",
+            "pos": [ 5334, 240.4, 9403.8 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Land_Tower_TC4_Top",
+            "pos": [ 5334, 280.9, 9403.8 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Land_Ship_Big_FrontA",
+            "pos": [ 5295.75, 186.002, 9544.3 ],
+            "ypr": [ -60.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Land_Ship_Big_FrontB",
+            "pos": [ 5287.8, 184.5, 9525.9 ],
+            "ypr": [ -60.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Land_Ship_Big_BackA",
+            "pos": [ 5263.7, 186, 9488.3 ],
+            "ypr": [ -52.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Land_Ship_Big_Castle",
+            "pos": [ 5258.3, 194.6, 9482 ],
+            "ypr": [ -52.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Land_Ship_Big_BackB",
+            "pos": [ 5251.097, 184.485, 9473.159 ],
+            "ypr": [ -52.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Land_Misc_Scaffolding",
+            "pos": [ 5220.7, 183, 9581 ],
+            "ypr": [ -205.0, 0.0, 0.0 ],
+			"scale": 1.7
+        },
+        {
+            "name": "Land_Wreck_C130J",
+            "pos": [ 5210, 200, 9562.5 ],
+            "ypr": [ -40.0, 20.0, 30.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Land_Hotel_Damaged",
+            "pos": [ 5180, 195, 9550 ],
+            "ypr": [ 180.0, 0.0, 0.0 ],
+			"scale": 1
+        }
+    ]   
+}
